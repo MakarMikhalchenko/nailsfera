@@ -1,6 +1,22 @@
-#header {
+body
+{
+min-width: 320px;
+}
 
-height: 140px;
-background-color: #051932;
+/* img
+{
 
+max-width: 100%;
+height: auto;
+
+
+} */
+
+
+
+
+#header
+{
+  height: 100px;
+  background-color: #051932;
 }
