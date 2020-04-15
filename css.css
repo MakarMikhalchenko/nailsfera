@@ -12,11 +12,42 @@ height: auto;
 
 } */
 
-
-
-
-#header
+.wrapper
 {
-  height: 100px;
+
+max-width: auto;
+
+}
+
+
+
+#headered
+{
+  height: 80px;
+}
+
+
+
+.header
+{
+  height: 140px;
   background-color: #051932;
+  border: 1px;
+  border-color: #051932;
+
+}
+.bggirll
+{
+height: 600px;
+width: auto;
+
+
+}
+
+#fonovoe
+{
+
+height: auto;
+width: 100%;
+
 }
